@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 10468,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automatic-export-azure-ea-billing-to-azure-blob-storage-for-easy-powerbi-access/master/Export-AzureEA-Billing-to-AzureBlobStorage-for-easy-PowerBi-Access.ps1",
+    "DownloadCount": 777,
+    "Id": "Automatic-export-Azure-EA-582bb65d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 145,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-2-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script automatically pulls the latest billing information from the Azure EA API and dumps it Azure Blob Storage for easy Power BI access",
+    "Title": "Automatic export Azure EA Billing to Azure Blob Storage for easy PowerBi access",
+    "UpdatedDate": "2017-2-27T00:00:00",
+    "Url": "https://github.com/azureautomation/automatic-export-azure-ea-billing-to-azure-blob-storage-for-easy-powerbi-access",
+    "UserTags": "Powershell, Automation, Powershell Script"
+}
